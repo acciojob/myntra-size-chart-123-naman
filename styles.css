@@ -1,2 +1,22 @@
-
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+	padding:5px;
+}
+th{
+	background-color:#c0504dff;
+	color: #fff;
+}
+.back1{
+	background-color:#da9694ff;
+	color: #fff;
+}
+.back2{
+	background-color:#f2dcdbff;
+	color: #000;
+}
+.back3{
+	background-color:#d9d9d9ff;
+	color: #000;
+}
 /* Your CSS Code here. */
